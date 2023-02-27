@@ -17,6 +17,7 @@ Modifications
 - Added a link in all 3 HTML files to the gutenberg.css CSS file
 - Added a link in all 3 HTML files to their corresponding cover image in images/
 - Changed the img tag in all 3 HTML files to match the corresponding image in images/
+
 License/Copyright
 =================
 

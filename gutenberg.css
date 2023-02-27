@@ -1,0 +1,32 @@
+/*Change the colour scheme to something aesthetically pleasing*/
+/* Background image made by kjpargeter on Freepik.com
+https://www.freepik.com/free-photo/vintage-grunge-paper-background_5405364.htm#&position=5&from_view=author*/
+body {
+    background-image: url(images/background.jpg);
+    font-family: papyrus;
+}
+
+title {
+    font-family: papyrus;
+}
+/*Theme paragraphs with CSS*/
+p {
+    text-shadow:0.055em 0.055em gray;
+}
+/*Theme header tags with CSS*/
+h1,h2,h3,h4 {
+    font-style: oblique;
+    font-weight: bold;
+}
+/*Theme images and images captions with CSS*/
+img {
+    border-style: groove;
+    border-width: 0.75em;
+    border-color: blanchedalmond;
+}
+
+.caption {
+    font-style: italic;
+}
+
+
